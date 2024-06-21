@@ -1,1 +1,2 @@
 # Summer-Project
+For this project, I am using medical cost data from Kaggle (https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset?resource=download) to create cost estimates given specific parameters.
